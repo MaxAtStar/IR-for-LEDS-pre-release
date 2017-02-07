@@ -1,3 +1,4 @@
+
 /*
  * IRremote: IRsendDemo - demonstrates sending IR codes with IRsend
  * An IR LED must be connected to Arduino PWM pin 3.
@@ -150,8 +151,40 @@ void loop() {
 //Testing::
 //irsend.sendRaw(a10,68,38);
 //delay(1000);
-irsend.sendRaw(a38,68,38);
-delay(1000);
+irsend.sendRaw(orange,68,38);
+delay(100);
+irsend.sendRaw(brightnessup,68,38);
+irsend.sendRaw(brightnessup,68,38);
+delay(100);
+irsend.sendRaw(brightnessup,68,38);
+irsend.sendRaw(brightnessup,68,38);
+delay(100);
+irsend.sendRaw(brightnessup,68,38);
+irsend.sendRaw(brightnessup,68,38);
+delay(100);
+irsend.sendRaw(brightnessup,68,38);
+irsend.sendRaw(brightnessup,68,38);
+delay(100);
+irsend.sendRaw(brightnessup,68,38);
+irsend.sendRaw(brightnessup,68,38);
+delay(100);
+irsend.sendRaw(blue3,68,38);
+delay(100);
+irsend.sendRaw(brightnessdown,68,38);
+irsend.sendRaw(brightnessdown,68,38);
+delay(100);
+irsend.sendRaw(brightnessdown,68,38);
+irsend.sendRaw(brightnessdown,68,38);
+delay(100);
+irsend.sendRaw(brightnessdown,68,38);
+irsend.sendRaw(brightnessdown,68,38);
+delay(100);
+irsend.sendRaw(brightnessdown,68,38);
+irsend.sendRaw(brightnessdown,68,38);
+delay(100);
+irsend.sendRaw(brightnessdown,68,38);
+irsend.sendRaw(brightnessdown,68,38);
+delay(100);
 //}
 //  }
 }
