@@ -1,0 +1,13 @@
+// This is the simplified code I am trying to use with my libraries.
+
+
+#include <irforled.h>
+
+void setup() {
+}
+
+void loop() {
+  // put your main code here, to run repeatedly:
+basicpattern();
+}
+
