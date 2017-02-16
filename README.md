@@ -27,5 +27,11 @@ You are free to change, redistrubute, copy, and use this code. Please do not cla
 
 -- CREDIT --
 I owe credit to my Electronics teacher Walter, and my Tech-Lab teacher Dylan. Credit is also due to Star Prep Academy staff and students, some of which will be listed below.
+Thank you for Avery, whos ignorance fueled me to strive to do better. 
 
-All the students in the Tech Lab Class and Avery from Electronics. Credit also goes to Chase my math teacher, who helped with some ideas. Thanks to Thomas V., My history teacher, for letting me sit in his class during countless lunches working on this project. 
+All the students in the Tech Lab Class and Avery from Electronics. Credit also goes to Chase my math teacher, who helped with some ideas. Thanks to Thomas V., My history teacher, for letting me sit in his class during countless lunches working on this project.
+
+Thanks to everyone who helped me over on the Arduino forums.
+Thanks to Epic Rap Battles for fueling me overnight with their loud an obnoxous music (hard to stay awake staring at a screen for 20+ hours... trust me..)
+
+
