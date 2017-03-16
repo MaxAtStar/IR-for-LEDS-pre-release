@@ -1,13 +1,17 @@
-// This is the simplified code I am trying to use with my libraries.
-
 
 #include <irforled.h>
 
+//IRsend irsend;
+patternOne PO;
 void setup() {
+  // put your setup code here, to run once:
+  pinMode(13, OUTPUT);
+  Serial.begin(9600);
+  Serial.println("Starting up");
+//  PL.internalLight();
+
 }
 
 void loop() {
-  // put your main code here, to run repeatedly:
-basicpattern();
+PO.basicpattern();
 }
-
