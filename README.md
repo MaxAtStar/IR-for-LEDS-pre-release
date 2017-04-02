@@ -1,7 +1,7 @@
 # IR-for-LEDS
 Send IR Codes from an Arduino to an RGB LED Strip
 This is created by Star Prep Academy
-This is currently still IN DEVELOPMENT. 
+This is currently IN DEVELOPMENT. 
 If support is needed, create a ticket in the issue section.
 
 
@@ -24,8 +24,11 @@ purple is the color
 -- COPYRIGHT / ACCEPTABLE USE / EULA --
 You are free to change, redistrubute, copy, and use this code. Please do not claim it as your own. "this code" refers to everything found in this git hub directory, including, but not limited to, libraries, files uploaded, Arduino code, and responses to issues. 
 
-
+-- CONTACT --
+To contact, you may either, create a ticket under the issues section or send an email to maxatstar@gmail.com
 -- CREDIT --
+Make sure to hit up the creator of the IRRemote library for being awesome! 
+
 I owe credit to my Electronics teacher Walter, and my Tech-Lab teacher Dylan. Credit is also due to Star Prep Academy staff and students, some of which will be listed below.
 Thank you for Avery, whos ignorance fueled me to strive to do better. 
 
